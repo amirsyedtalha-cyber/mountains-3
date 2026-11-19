@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amirsyedtalha-cyber.github.io/mountains2/sitemap.xml
